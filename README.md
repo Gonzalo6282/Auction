@@ -1,5 +1,5 @@
 # Auction
-Using .NET, C# and Bootstrap I've built a auction website. The auction website allows users to register, create a listings, search for listings, bid on items, and chat with listing owners.
+Using .NET, C# and Bootstrap I've built an auction website. The auction website allows users to register, create listings, search for listings, bid on items, and chat with listing owners.
 
 [Live demo](https://auctionwebapp-b2b8c9e4h0habra0.uksouth-01.azurewebsites.net)
 
